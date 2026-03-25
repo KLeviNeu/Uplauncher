@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v11.0": {},
     ".NETCoreApp,Version=v11.0/win-x64": {
-      "Uplauncher2/1.0.202603252119": {
+      "Uplauncher2/1.20260325.2238": {
         "dependencies": {
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "11.0.0-preview.2.26159.112",
           "runtimepack.Microsoft.WindowsDesktop.App.Runtime.win-x64": "11.0.0-preview.2.26159.112",
@@ -981,7 +981,7 @@
     }
   },
   "libraries": {
-    "Uplauncher2/1.0.202603252119": {
+    "Uplauncher2/1.20260325.2238": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
